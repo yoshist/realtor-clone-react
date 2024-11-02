@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#logoImage {
+    height:20px;
+}
+
+.headerJustification {
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px .75rem;
+    max-width: 72rem;
+    margin: auto;
+}
+
+.flex {
+
+}
+
+
+#unorderedList{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
